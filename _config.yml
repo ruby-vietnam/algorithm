@@ -10,7 +10,7 @@ baseurl: "/algorithm"
 
 
 sass:
-    style: compressed
+  style: compressed
 
   
 #optimization

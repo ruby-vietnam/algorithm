@@ -9,9 +9,9 @@ layout: default
           <img class="feat-image" src={{ "/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
        {% endif %}
           <div class="container">
-            <h4>{{post.title}}</h4>
+            <h4>{{post.title}}</h4>            
             <p>{{post.description}}</p>
-             <div class="action">{{ post.date | date: '%B %d, %Y' }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
+             <div class="action">{{ post.date | date: '%B %d, %Y' }} by {{post.author }}<a href="{{post.url | prepend: site.baseurl}}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a></div> 
         </div>   
     </div>
    {% endfor %}
