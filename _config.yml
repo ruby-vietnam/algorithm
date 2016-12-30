@@ -4,7 +4,7 @@ desctiption: Algoirthms playground from Ruby-Vietnam
 url: https://ruby-vietnam.github.io/algorithm
 github: https://github.com/ruby-vietnam/algorithm
 permalink: ':title/'
-
+github_posts_url: https://github.com/ruby-vietnam/algorithm/blob/gh-pages/_posts/
 markdown: kramdown
 baseurl: "/algorithm"
 

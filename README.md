@@ -22,6 +22,7 @@ title: << Your title >>
 description: << Your description >>
 author: << Your Name >>
 color: 212121
+filename: 2016-12-30-swap.md
 ---
 
 * How to swap two numbers
