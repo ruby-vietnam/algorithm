@@ -4,13 +4,13 @@ title: Caesar Cipher in Ruby
 description: Caesar Cipher in Ruby
 author: hqc
 color: 212121
-—
+---
 
 ### Implementation
 
 Link: https://gist.github.com/matugm/db363c7131e6af27716c
 
-```ruby
+{% highlight ruby %}   
 ALPHABET_SIZE = 26
 
 def caesar_cipher(string)
@@ -28,4 +28,4 @@ def caesar_cipher(string)
 end
 
 puts caesar_cipher("testing")
-```
+{% endhighlight %}
