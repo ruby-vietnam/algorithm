@@ -31,5 +31,7 @@ filename: 2016-12-30-swap.md
 YOUR CONTENT HERE
 ```
 
+For an example, please look at [this post](https://raw.githubusercontent.com/ruby-vietnam/algorithm/gh-pages/_posts/2016-12-30-swap.md)
+
 # License
 MIT License
