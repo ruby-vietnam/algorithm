@@ -1,3 +1,11 @@
+---
+layout: post
+title: Caesar Cipher in Ruby
+description: Caesar Cipher in Ruby
+author: hqc
+color: 212121
+—
+
 ### Implementation
 
 Link: https://gist.github.com/matugm/db363c7131e6af27716c
