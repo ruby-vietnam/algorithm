@@ -1,13 +1,17 @@
-# What is this ?
+# What is this
 
 - A colloborative playground for all developers
 
-# How to submit: 
+# How to submit
 
 - Fork the repo to your account
 - Make a Pull Request in `_posts` folder.
 
-# Format your post:
+# Format your post file name
+
+- Your file should have format like : `year-month-day-title.md`
+
+# Format your post
 
 Please put this to your top of your post !
 
