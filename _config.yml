@@ -1,7 +1,7 @@
 
 title: Algorithm
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: https://checkraiser.github.io/algorithm
+desctiption: Algoirthms playground from Ruby-Vietnam
+url: https://ruby-vietnam.github.io/algorithm
 permalink: ':title/'
 
 markdown: kramdown
