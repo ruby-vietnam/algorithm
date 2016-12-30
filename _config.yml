@@ -1,11 +1,11 @@
 
-title: Karna
+title: Algorithm
 desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+url: https://checkraiser.github.io/algorithm
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/algorithm"
 
 
 sass:
