@@ -2,6 +2,7 @@
 title: Algorithm
 desctiption: Algoirthms playground from Ruby-Vietnam
 url: https://ruby-vietnam.github.io/algorithm
+github: https://github.com/ruby-vietnam/algorithm
 permalink: ':title/'
 
 markdown: kramdown
